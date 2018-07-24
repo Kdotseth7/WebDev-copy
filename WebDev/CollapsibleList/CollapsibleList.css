@@ -1,0 +1,11 @@
+*{
+    font-weight: bold;
+    font-family: "Calisto MT";
+    font-size: 30px;
+}
+li > ul {
+    display: none;
+}
+li:hover > ul {
+    display: block;
+}

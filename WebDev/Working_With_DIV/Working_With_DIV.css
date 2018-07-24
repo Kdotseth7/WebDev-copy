@@ -1,0 +1,14 @@
+.cl{
+    margin: 20px;
+    padding: 8px;
+    border: black groove 3px;
+}
+#i1{
+    background-color: darkorange;
+}
+#i2{
+    background-color: aqua;
+}
+#i3{
+    background-color: darkmagenta;
+}

@@ -1,0 +1,44 @@
+div{
+    margin: 40px;
+    height: 70px;
+    width: 70px;
+    background-color: crimson;
+}
+@keyframes slide {
+    from{
+        margin-left: 40px;
+    }
+    to{
+        margin-left: 200px;
+    }
+}
+@keyframes crzyslide {
+    0%{
+        margin-left: 40px;
+    }
+    50%{
+        margin-left: 150px;
+        background-color: dodgerblue;
+        height: 80px;
+    }
+    75%{
+        margin-left: 200px;
+        color: gold;
+        width: 80px;
+    }
+    100%{
+        margin-left: 300px;
+        height: 100px;
+        background-color: darkturquoise;
+    }
+}
+#dadi1:hover + div{
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-iteration-count: 30;
+}
+#dadi3:hover + div{
+    animation-name: crzyslide;
+    animation-duration: 4s;
+    animation-iteration-count: 30;
+}

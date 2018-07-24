@@ -1,0 +1,23 @@
+div{
+    margin:100px;
+}
+#div1{
+    background-color: darkmagenta;
+    height: 80px;
+    width: 80px;
+}
+#div2{
+    background-color: forestgreen;
+    height: 50px;
+    width: 50px;
+}
+#div1:hover{
+    background-color: crimson;
+    height: 40px;
+    transition: background-color 2s, height 2s;
+}
+#div2:hover{
+    background-color: dodgerblue;
+    width: 100px;
+    transition:background-color 1s,width 2s;
+}

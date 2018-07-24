@@ -1,0 +1,23 @@
+*{
+    font-weight: bold;
+}
+/*ul > li {
+    color: darkorange;
+    font-style: italic;
+}*/
+
+ul ol {
+    color: darkorange;
+    font-style: italic;
+}
+
+/*ul + ol {
+    color: mediumseagreen;
+    font-style: italic;
+    text-decoration: underline;
+}*/
+ul ~ ol {
+    color: mediumseagreen;
+    font-style: italic;
+    text-decoration: underline;
+}

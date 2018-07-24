@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content{
+    background-color: wheat;
+    font-size: 14pt;
+    padding: 5px;
+    margin: 4px;
+}
+.item{
+    background-color: darkcyan;
+    padding: 8px;
+    margin: 4px;
+}
+.sidebar{
+    flex-grow: 1;
+}
+@media (max-width: 750px) and (min-width: 200px) {
+    .container{
+        justify-content: space-between;
+    }
+    ul li {
+        display: inline-block;
+        border: white 2px groove;
+        padding: 8px;
+    }
+    #rightSidebar p {
+        display: inline-block;
+        border: white 2px groove;
+        padding: 8px;
+    }
+}
+@media (min-width: 750px){
+    .content{
+        width: 600px;
+        flex-grow: 7;
+    }
+}

@@ -1,0 +1,17 @@
+
+#div1 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+  /*  background-color: darkorange;
+    transform: translate(50px, 70px);*/
+
+   /*  background-color: darkmagenta;
+     transform: scale(2,2);*/
+
+   /*  background-color: chartreuse;
+     transform: rotate(70deg);*/
+
+    background-color: dodgerblue;
+     transform: skew(0deg,5deg);
+}
