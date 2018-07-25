@@ -1,27 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="" />
+    <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/AddRemove_items_in_arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/join().js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Scopes_let.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Scopes_var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Print_1to10/Print_1to10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Print_1to10/Print_1to10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringsInJS/OtherMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringsInJS/StringMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringsInJS/StringsInJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tryin'.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebDev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../make-a-pr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../make-a-pr/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="864209611">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="js" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="42" />
+          <entry key="js" value="4940" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="42" />
+          <entry key="JavaScript" value="4940" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_let.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_var.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,25 +135,54 @@
         <option value="$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.css" />
         <option value="$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css" />
         <option value="$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html" />
-        <option value="$USER_HOME$/Documents/WebDev_with_NodeJS/newjavascript.js" />
-        <option value="$USER_HOME$/Documents/WebDev_with_NodeJS/newjs.js" />
-        <option value="$USER_HOME$/Documents/WebDev_with_NodeJS/newjs2.js" />
+        <option value="$PROJECT_DIR$/../newjavascript.js" />
+        <option value="$PROJECT_DIR$/../newjs.js" />
+        <option value="$PROJECT_DIR$/../newjs2.js" />
+        <option value="$PROJECT_DIR$/Tryin'.js" />
+        <option value="$PROJECT_DIR$/Print_1to10.js" />
+        <option value="$PROJECT_DIR$/Print_1to10.html" />
+        <option value="$PROJECT_DIR$/Print_1to10/Print_1to10.html" />
+        <option value="$PROJECT_DIR$/Print_1to10/Print_1to10.js" />
+        <option value="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.js" />
+        <option value="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.html" />
+        <option value="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.html" />
+        <option value="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.js" />
+        <option value="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.html" />
+        <option value="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.js" />
+        <option value="$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js" />
+        <option value="$PROJECT_DIR$/StringsInJS/StringsInJS.js" />
+        <option value="$PROJECT_DIR$/StringsInJS/StringMethods.js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/Add/Remove_Items_in_an_Array.js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/AddRemove_items_in_arrays.js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js" />
+        <option value="$PROJECT_DIR$/StringsInJS/split()inJS.js" />
+        <option value="$PROJECT_DIR$/StringsInJS/OtherMethods.js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/join().js" />
+        <option value="$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js" />
+        <option value="$PROJECT_DIR$/Functions_in_JS/Scopes_var.js" />
+        <option value="$PROJECT_DIR$/Functions_in_JS/Scopes_let.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="width" value="1855" />
+    <option name="width" value="1760" />
     <option name="height" value="2075" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -80,23 +194,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="WebDev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebDev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap_Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions_in_JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebDev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev" type="462c0819:PsiDirectoryNode" />
-              <item name="MediaQueries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebDev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev" type="462c0819:PsiDirectoryNode" />
-              <item name="ResponsiveWebsite_using_MQ" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StringsInJS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,21 +216,23 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/WebDev_with_NodeJS/make-a-pr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Print_1to10" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Working_With_DIV" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\CSS Selector Precedence" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Combinators" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\CollapsibleList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -136,23 +247,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Bootstrap_Intro.html">
-    <configuration name="Bootstrap_Intro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDev/Bootstrap_Intro/Bootstrap_Intro.html" />
-    <configuration name="Flexbox.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDev/Flexbox/Flexbox.html" />
-    <configuration name="MediaQueries.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDev/MediaQueries/MediaQueries.html" />
-    <configuration name="ResponsiveWebsite_using_MQ.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDev/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.html" />
+  <component name="RunManager" selected="Node.js.Scopes_var.js">
+    <configuration name="Scopes_let.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Scopes_let.js" working-dir="$PROJECT_DIR$/Functions_in_JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="Scopes_var.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Scopes_var.js" working-dir="$PROJECT_DIR$/Functions_in_JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="TwoDimensionalArrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="TwoDimensionalArrays.js" working-dir="$PROJECT_DIR$/Arrays_in_JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="join().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="join().js" working-dir="$PROJECT_DIR$/Arrays_in_JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="split()inJS.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="split()inJS.js" working-dir="$PROJECT_DIR$/StringsInJS">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.Flexbox.html" />
-      <item itemvalue="JavaScript Debug.MediaQueries.html" />
-      <item itemvalue="JavaScript Debug.ResponsiveWebsite_using_MQ.html" />
-      <item itemvalue="JavaScript Debug.Bootstrap_Intro.html" />
+      <item itemvalue="Node.js.split()inJS.js" />
+      <item itemvalue="Node.js.join().js" />
+      <item itemvalue="Node.js.TwoDimensionalArrays.js" />
+      <item itemvalue="Node.js.Scopes_let.js" />
+      <item itemvalue="Node.js.Scopes_var.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Bootstrap_Intro.html" />
-        <item itemvalue="JavaScript Debug.ResponsiveWebsite_using_MQ.html" />
-        <item itemvalue="JavaScript Debug.MediaQueries.html" />
-        <item itemvalue="JavaScript Debug.Flexbox.html" />
+        <item itemvalue="Node.js.Scopes_var.js" />
+        <item itemvalue="Node.js.Scopes_let.js" />
+        <item itemvalue="Node.js.TwoDimensionalArrays.js" />
+        <item itemvalue="Node.js.join().js" />
+        <item itemvalue="Node.js.split()inJS.js" />
       </list>
     </recent_temporary>
   </component>
@@ -173,32 +297,38 @@
       <workItem from="1532186085965" duration="5927000" />
       <workItem from="1532247656057" duration="10421000" />
       <workItem from="1532341491061" duration="7667000" />
+      <workItem from="1532434022288" duration="821000" />
+      <workItem from="1532439411618" duration="1528000" />
+      <workItem from="1532441562457" duration="5525000" />
+      <workItem from="1532450193828" duration="9086000" />
+      <workItem from="1532521334331" duration="16527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41558000" />
+    <option name="totallyTimeSpent" value="75045000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="742" height="830" extended-state="0" />
+    <frame x="0" y="0" width="704" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27123287" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21823618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962447" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25173852" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.66959065" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49867898" weight="0.24929178" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49177876" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49853802" weight="0.32904148" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5082212" side_tool="true" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,238 +338,197 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precdence.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precedence.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebDev_with_NodeJS/newjavascript.js">
+    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precdence.css" />
+    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.html" />
+    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.css" />
+    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.html" />
+    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.css" />
+    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precedence.html" />
+    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.css" />
+    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.html" />
+    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.html" />
+    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.css" />
+    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.html" />
+    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.css" />
+    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.html" />
+    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.css" />
+    <entry file="file://$PROJECT_DIR$/Animations/Animations.css" />
+    <entry file="file://$PROJECT_DIR$/Animations/Animations.html" />
+    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.css" />
+    <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.html" />
+    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.html" />
+    <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.css" />
+    <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.html" />
+    <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html" />
+    <entry file="file://$PROJECT_DIR$/../newjavascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WebDev_with_NodeJS/newjs2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebDev_with_NodeJS/newjs.js">
+    <entry file="file://$PROJECT_DIR$/../newjs2.js" />
+    <entry file="file://$PROJECT_DIR$/../newjs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tryin'.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Print_1to10/Print_1to10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Print_1to10/Print_1to10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/StringsInJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/StringMethods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Add/Remove_Items_in_an_Array.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/AddRemove_items_in_arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/split()inJS.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/join().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/OtherMethods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_let.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_var.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
