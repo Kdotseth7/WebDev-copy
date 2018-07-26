@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/AddRemove_items_in_arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays_in_JS/join().js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Functions_in_JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Scopes_let.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_in_JS/Scopes_var.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Playin'_with_JS_DataTypes/Playin'_with_JS_DataTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print_1to10/Print_1to10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print_1to10/Print_1to10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsInJS/OtherMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsInJS/StringMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringsInJS/StringsInJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tryin'.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebDev.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions/Closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions/Closure_anotherExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions/hof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions/hof_practicalExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../make-a-pr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../make-a-pr/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,56 +24,56 @@
     <session id="864209611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="4" />
-          <entry key="js" value="21" />
+          <entry key="css" value="1" />
+          <entry key="html" value="6" />
+          <entry key="js" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
-          <entry key="JavaScript" value="21" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="6" />
+          <entry key="JavaScript" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="42" />
-          <entry key="js" value="4940" />
+          <entry key="js" value="7152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="42" />
-          <entry key="JavaScript" value="4940" />
+          <entry key="JavaScript" value="7152" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_let.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="169">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_var.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array_OpN's.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,13 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS Selector Precdence.css" />
-        <option value="$PROJECT_DIR$/CSS Selector Precedence.html" />
-        <option value="$PROJECT_DIR$/Working_With_DIV.html" />
-        <option value="$PROJECT_DIR$/Working_With_DIV.css" />
-        <option value="$PROJECT_DIR$/Combinators.html" />
-        <option value="$PROJECT_DIR$/Combinators.css" />
-        <option value="$PROJECT_DIR$/CollapsibleList.html" />
         <option value="$PROJECT_DIR$/CollapsibleList.css" />
         <option value="$PROJECT_DIR$/Transforms/Transforms.html" />
         <option value="$PROJECT_DIR$/Transforms/Transforms.css" />
@@ -162,6 +137,13 @@
         <option value="$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js" />
         <option value="$PROJECT_DIR$/Functions_in_JS/Scopes_var.js" />
         <option value="$PROJECT_DIR$/Functions_in_JS/Scopes_let.js" />
+        <option value="$PROJECT_DIR$/Functions_in_JS/Higher_order_functions.js" />
+        <option value="$PROJECT_DIR$/Higher_order_functions/hof_practicalExample.js" />
+        <option value="$PROJECT_DIR$/Higher_order_functions/hof.js" />
+        <option value="$PROJECT_DIR$/Higher_order_functions/Closure.js" />
+        <option value="$PROJECT_DIR$/Higher_order_functions/Closure_anotherExample.js" />
+        <option value="$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's.js" />
       </list>
     </option>
   </component>
@@ -178,7 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1760" />
+    <option name="x" value="-15" />
+    <option name="width" value="1615" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -189,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,20 +179,11 @@
               <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions_in_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsInJS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,18 +194,18 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Higher_order_functions" />
       <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Print_1to10" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Working_With_DIV" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\CSS Selector Precedence" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Combinators" />
-      <recent name="C:\Users\ASUS\WebstormProjects\WebDev\CollapsibleList" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,36 +220,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Scopes_var.js">
-    <configuration name="Scopes_let.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Scopes_let.js" working-dir="$PROJECT_DIR$/Functions_in_JS">
+  <component name="RunManager" selected="Node.js.closureViaObjects.js">
+    <configuration name="Closure_anotherExample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Closure_anotherExample.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
       <method v="2" />
     </configuration>
-    <configuration name="Scopes_var.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Scopes_var.js" working-dir="$PROJECT_DIR$/Functions_in_JS">
+    <configuration name="Closure.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Closure.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
       <method v="2" />
     </configuration>
-    <configuration name="TwoDimensionalArrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="TwoDimensionalArrays.js" working-dir="$PROJECT_DIR$/Arrays_in_JS">
+    <configuration name="closureViaObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="closureViaObjects.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
       <method v="2" />
     </configuration>
-    <configuration name="join().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="join().js" working-dir="$PROJECT_DIR$/Arrays_in_JS">
+    <configuration name="hof.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hof.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
       <method v="2" />
     </configuration>
-    <configuration name="split()inJS.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="split()inJS.js" working-dir="$PROJECT_DIR$/StringsInJS">
+    <configuration name="hof_practicalExample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hof_practicalExample.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.split()inJS.js" />
-      <item itemvalue="Node.js.join().js" />
-      <item itemvalue="Node.js.TwoDimensionalArrays.js" />
-      <item itemvalue="Node.js.Scopes_let.js" />
-      <item itemvalue="Node.js.Scopes_var.js" />
+      <item itemvalue="Node.js.hof.js" />
+      <item itemvalue="Node.js.hof_practicalExample.js" />
+      <item itemvalue="Node.js.Closure.js" />
+      <item itemvalue="Node.js.Closure_anotherExample.js" />
+      <item itemvalue="Node.js.closureViaObjects.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Scopes_var.js" />
-        <item itemvalue="Node.js.Scopes_let.js" />
-        <item itemvalue="Node.js.TwoDimensionalArrays.js" />
-        <item itemvalue="Node.js.join().js" />
-        <item itemvalue="Node.js.split()inJS.js" />
+        <item itemvalue="Node.js.closureViaObjects.js" />
+        <item itemvalue="Node.js.Closure_anotherExample.js" />
+        <item itemvalue="Node.js.Closure.js" />
+        <item itemvalue="Node.js.hof.js" />
+        <item itemvalue="Node.js.hof_practicalExample.js" />
       </list>
     </recent_temporary>
   </component>
@@ -301,18 +274,22 @@
       <workItem from="1532439411618" duration="1528000" />
       <workItem from="1532441562457" duration="5525000" />
       <workItem from="1532450193828" duration="9086000" />
-      <workItem from="1532521334331" duration="16527000" />
+      <workItem from="1532521334331" duration="17713000" />
+      <workItem from="1532551891917" duration="101000" />
+      <workItem from="1532552005035" duration="1376000" />
+      <workItem from="1532615834648" duration="1157000" />
+      <workItem from="1532618157899" duration="11363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75045000" />
+    <option name="totallyTimeSpent" value="90228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="704" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="646" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21823618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23895253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,14 +299,33 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49177876" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49194992" visible="true" weight="0.32474965" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49853802" weight="0.32904148" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5082212" side_tool="true" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5080501" side_tool="true" weight="0.32474965" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26118067" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.66959065" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49867898" weight="0.24929178" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49194992" weight="0.32474965" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49853802" weight="0.32904148" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5080501" side_tool="true" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -338,11 +334,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precdence.css" />
-    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.html" />
-    <entry file="file://$PROJECT_DIR$/Combinators/Combinators.css" />
-    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.html" />
-    <entry file="file://$PROJECT_DIR$/Working_With_DIV/Working_With_DIV.css" />
     <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precedence.html" />
     <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.css" />
     <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.html" />
@@ -360,8 +351,6 @@
     <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.css" />
     <entry file="file://$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.html" />
     <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.css" />
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css" />
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html" />
     <entry file="file://$PROJECT_DIR$/../newjavascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -419,6 +408,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/StringsInJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/StringMethods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Add/Remove_Items_in_an_Array.js" />
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/split()inJS.js" />
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/join().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInJS/OtherMethods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_var.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_let.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Objects_in_JS/Objects_in_JS.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -440,32 +494,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js">
+    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringsInJS/StringsInJS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringsInJS/StringMethods.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Add/Remove_Items_in_an_Array.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays_in_JS/AddRemove_items_in_arrays.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -474,61 +508,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/ChangingData-Arrays(III).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/Arrays_in_JS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringsInJS/split()inJS.js">
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/TwoDimensionalArrays.js">
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Intro/Bootstrap_Intro.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/Higher_order_functions.js" />
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/hof_practicalExample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays_in_JS/join().js">
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/hof.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringsInJS/OtherMethods.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="170">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_let.js">
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/Closure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="281">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_in_JS/Scopes_var.js">
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/Closure_anotherExample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>

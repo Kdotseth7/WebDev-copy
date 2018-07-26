@@ -1,0 +1,76 @@
+		STORED PROCEDURE:-
+		
+		CREATE PROCEDURE spGetEmployees
+		AS
+		BEGIN
+		  Select Name, Gender from tblEmployee
+		END
+
+
+		
+		Note: When naming user defined stored procedures, Microsoft recommends not to use "sp_" as a prefix. 
+			  All system stored procedures, are prefixed with "sp_".
+			  This avoids any ambiguity between user defined and system stored procedures and any conflicts, with some future system procedure.
+			  
+	
+		TO EXECUTE THE STORED PROCEDURE:-
+		
+		1. Highlight - spGetEmployees - and Execute
+		2. EXEC spGetEmployees
+		3. Execute spGetEmployees
+		4. Right click on the procedure name, in object explorer in SQL Server Management Studio and select EXECUTE STORED PROCEDURE
+		
+		
+		CREATING A STORED PROCEDURE WITH INPUT PARAMETERS:-
+		
+		This SP, accepts GENDER and DEPARTMENTID parameters. Parameters and variables have an @ prefix in their name.
+
+		CREATE PROCEDURE spGetEmployeesByGenderAndDepartment 
+		@Gender nvarchar(50),
+		@DepartmentId int
+		AS
+		BEGIN
+		  Select Name, Gender from tblEmployee Where Gender = @Gender and DepartmentId = @DepartmentId
+		END
+
+		To invoke this procedure, we need to pass the value for @Gender and @DepartmentId parameters.
+		If you don't specify the name of the parameters, you have to first pass value for @Gender parameter and then for @DepartmentId.
+		
+		EXECUTE spGetEmployeesByGenderAndDepartment 'Male', 1
+
+		On the other hand, if you change the order, you will get an error stating "Error converting data type varchar to int." SolN:-
+		
+		EXECUTE spGetEmployeesByGenderAndDepartment @DepartmentId=1, @Gender = 'Male'
+		
+		
+		TO ENCRYPT THE TEXT OF THE SP:-
+		
+		ALTER PROCEDURE spGetEmployeesByGenderAndDepartment 
+		@Gender nvarchar(50),
+		@DepartmentId int
+		WITH ENCRYPTION
+		AS
+		BEGIN
+		  Select Name, Gender from tblEmployee Where Gender = @Gender and DepartmentId = @DepartmentId
+		END
+		
+		TO CREATE AN SP WITH OUTPUT PARAMETER:-
+		
+		We use the keywords OUT or OUTPUT. @EmployeeCount is an OUTPUT parameter. Notice, it is specified with OUTPUT keyword. 
+		
+		CREATE PROCEDURE spGetEmployeeCountByGender
+		@Gender nvarchar(20),
+		@EmployeeCount int Output
+		AS
+		BEGIN
+		 Select @EmployeeCount = COUNT(Id) 
+		 from tblEmployee 
+		 where Gender = @Gender
+		END 
+		
+		To execute this stored procedure with OUTPUT parameter
+
+		Declare @EmployeeTotal int
+		Execute spGetEmployeeCountByGender 'Female', @EmployeeTotal output
+		Print @EmployeeTotal
+				
