@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array_OpN's.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Higher_order_functions/Closure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Higher_order_functions/Closure_anotherExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Higher_order_functions/hof.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Higher_order_functions/hof_practicalExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's/Fun_with_Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's/Map2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's/Reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_OpN's/Sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmulatingClasses/Classes_using_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmulatingClasses/Constructor_function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmulatingClasses/Prototypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_in_JS/Objects_with_Functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_OpN's.js" beforeDir="false" afterPath="$PROJECT_DIR$/Array_OpN's/Filter.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,52 +31,61 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="6" />
-          <entry key="js" value="32" />
+          <entry key="js" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="6" />
-          <entry key="JavaScript" value="32" />
+          <entry key="JavaScript" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="42" />
-          <entry key="js" value="7152" />
+          <entry key="js" value="10201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="42" />
-          <entry key="JavaScript" value="7152" />
+          <entry key="JavaScript" value="10201" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EmulatingClasses/Constructor_function.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EmulatingClasses/Classes_using_new.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array_OpN's.js">
+        <entry file="file://$PROJECT_DIR$/EmulatingClasses/Prototypes.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -83,6 +96,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="AMD JavaScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -93,18 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CollapsibleList.css" />
-        <option value="$PROJECT_DIR$/Transforms/Transforms.html" />
-        <option value="$PROJECT_DIR$/Transforms/Transforms.css" />
-        <option value="$PROJECT_DIR$/Positioning/Positioning.html" />
-        <option value="$PROJECT_DIR$/Positioning/Positioning.css" />
-        <option value="$PROJECT_DIR$/Transitions/Transitions.html" />
-        <option value="$PROJECT_DIR$/Transitions/Transitions.css" />
-        <option value="$PROJECT_DIR$/Animations/Animations.html" />
-        <option value="$PROJECT_DIR$/Animations/Animations.css" />
-        <option value="$PROJECT_DIR$/Flexbox/Flexbox.html" />
-        <option value="$PROJECT_DIR$/Flexbox/Flexbox.css" />
-        <option value="$PROJECT_DIR$/MediaQueries/MediaQueries.html" />
         <option value="$PROJECT_DIR$/MediaQueries/MediaQueries.css" />
         <option value="$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.html" />
         <option value="$PROJECT_DIR$/ResponsiveWebsite_using_MQ/ResponsiveWebsite_using_MQ.css" />
@@ -144,6 +146,18 @@
         <option value="$PROJECT_DIR$/Higher_order_functions/Closure_anotherExample.js" />
         <option value="$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js" />
         <option value="$PROJECT_DIR$/Array_OpN's.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Sorting.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Map.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Map2.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Filter.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Fun_with_Filter.js" />
+        <option value="$PROJECT_DIR$/Array_OpN's/Reduce.js" />
+        <option value="$PROJECT_DIR$/Objects_in_JS/Objects_with_Functions.js" />
+        <option value="$PROJECT_DIR$/new_keyword.js" />
+        <option value="$PROJECT_DIR$/Classes/new_keyword.js" />
+        <option value="$PROJECT_DIR$/EmulatingClasses/Constructor_function.js" />
+        <option value="$PROJECT_DIR$/EmulatingClasses/Classes_using_new.js" />
+        <option value="$PROJECT_DIR$/EmulatingClasses/Prototypes.js" />
       </list>
     </option>
   </component>
@@ -161,7 +175,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-15" />
-    <option name="width" value="1615" />
+    <option name="width" value="1590" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,6 +192,11 @@
             <path>
               <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDev-copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDev-copy" type="462c0819:PsiDirectoryNode" />
+              <item name="EmulatingClasses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,15 +216,15 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Classes" />
       <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Higher_order_functions" />
       <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS\WebDev-copy\Print_1to10" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Working_With_DIV" />
       <recent name="C:\Users\ASUS\WebstormProjects\WebDev\CSS Selector Precedence" />
-      <recent name="C:\Users\ASUS\WebstormProjects\WebDev\Combinators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\WebDev_with_NodeJS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,36 +239,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.closureViaObjects.js">
-    <configuration name="Closure_anotherExample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Closure_anotherExample.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
+  <component name="RunManager" selected="Node.js.Classes_using_new.js">
+    <configuration name="Classes_using_new.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Classes_using_new.js" working-dir="$PROJECT_DIR$/EmulatingClasses">
       <method v="2" />
     </configuration>
-    <configuration name="Closure.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Closure.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
+    <configuration name="Constructor_function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Constructor_function.js" working-dir="$PROJECT_DIR$/EmulatingClasses">
       <method v="2" />
     </configuration>
-    <configuration name="closureViaObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="closureViaObjects.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
+    <configuration name="Fun_with_Filter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Fun_with_Filter.js" working-dir="$PROJECT_DIR$/Array_OpN's">
       <method v="2" />
     </configuration>
-    <configuration name="hof.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hof.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
+    <configuration name="Objects_with_Functions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Objects_with_Functions.js" working-dir="$PROJECT_DIR$/Objects_in_JS">
       <method v="2" />
     </configuration>
-    <configuration name="hof_practicalExample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hof_practicalExample.js" working-dir="$PROJECT_DIR$/Higher_order_functions">
+    <configuration name="Reduce.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Reduce.js" working-dir="$PROJECT_DIR$/Array_OpN's">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.hof.js" />
-      <item itemvalue="Node.js.hof_practicalExample.js" />
-      <item itemvalue="Node.js.Closure.js" />
-      <item itemvalue="Node.js.Closure_anotherExample.js" />
-      <item itemvalue="Node.js.closureViaObjects.js" />
+      <item itemvalue="Node.js.Fun_with_Filter.js" />
+      <item itemvalue="Node.js.Reduce.js" />
+      <item itemvalue="Node.js.Objects_with_Functions.js" />
+      <item itemvalue="Node.js.Constructor_function.js" />
+      <item itemvalue="Node.js.Classes_using_new.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.closureViaObjects.js" />
-        <item itemvalue="Node.js.Closure_anotherExample.js" />
-        <item itemvalue="Node.js.Closure.js" />
-        <item itemvalue="Node.js.hof.js" />
-        <item itemvalue="Node.js.hof_practicalExample.js" />
+        <item itemvalue="Node.js.Classes_using_new.js" />
+        <item itemvalue="Node.js.Constructor_function.js" />
+        <item itemvalue="Node.js.Objects_with_Functions.js" />
+        <item itemvalue="Node.js.Reduce.js" />
+        <item itemvalue="Node.js.Fun_with_Filter.js" />
       </list>
     </recent_temporary>
   </component>
@@ -278,18 +297,19 @@
       <workItem from="1532551891917" duration="101000" />
       <workItem from="1532552005035" duration="1376000" />
       <workItem from="1532615834648" duration="1157000" />
-      <workItem from="1532618157899" duration="11363000" />
+      <workItem from="1532618157899" duration="15369000" />
+      <workItem from="1532687372994" duration="9906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90228000" />
+    <option name="totallyTimeSpent" value="104140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="646" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="636" height="830" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23895253" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24292845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -299,7 +319,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49194992" visible="true" weight="0.32474965" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49194992" visible="true" weight="0.22603719" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49853802" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5080501" side_tool="true" weight="0.32474965" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -334,17 +354,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS Selector Precedence/CSS Selector Precedence.html" />
-    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.css" />
-    <entry file="file://$PROJECT_DIR$/CollapsibleList/CollapsibleList.html" />
-    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.html" />
-    <entry file="file://$PROJECT_DIR$/Transforms/Transforms.css" />
-    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.html" />
-    <entry file="file://$PROJECT_DIR$/Positioning/Positioning.css" />
-    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.html" />
-    <entry file="file://$PROJECT_DIR$/Transitions/Transitions.css" />
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.css" />
-    <entry file="file://$PROJECT_DIR$/Animations/Animations.html" />
     <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.css" />
     <entry file="file://$PROJECT_DIR$/Flexbox/Flexbox.html" />
     <entry file="file://$PROJECT_DIR$/MediaQueries/MediaQueries.html" />
@@ -405,13 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -549,13 +551,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array_OpN's.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's.js" />
     <entry file="file://$PROJECT_DIR$/Higher_order_functions/closureViaObjects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="187">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Map2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Equality_and_AutomaticTypeConversion/Equality_and_AutomaticTypeConversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Sorting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Reduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Fun_with_Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array_OpN's/Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects_in_JS/Objects_with_Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/new_keyword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmulatingClasses/Constructor_function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmulatingClasses/Prototypes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmulatingClasses/Classes_using_new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
