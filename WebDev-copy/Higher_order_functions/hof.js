@@ -1,7 +1,9 @@
 /*
 A higher-order function is a function that can take
 another function as an argument, or that returns
-a function as a result.*/
+a function as a result.
+    HOF are also known as Call Back functions
+*/
 
 
 //1. Returns a function as a result
