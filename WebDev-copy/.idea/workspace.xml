@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/NodeJS_Intro/Practice_Ques/sampleFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/another-server-example/404_responseHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/another-server-example/Middlewares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-example/server-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-example/server-3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-example/server-Query.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-example/server-sendingHtmlResponse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-example/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers-example/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-npm-package/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello_World.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hello_World.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeJS_Intro/Practice_Ques/originalData.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeJS_Intro/Practice_Ques/originalData.js" afterDir="false" />
-    </list>
+    <list default="true" id="62d8c128-c697-4eec-943e-923007d9163e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -30,7 +15,7 @@
     <session id="864209611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="5" />
@@ -358,12 +343,12 @@
       <workItem from="1533040922199" duration="2179000" />
       <workItem from="1533132557654" duration="7540000" />
       <workItem from="1533219471957" duration="5265000" />
-      <workItem from="1533233591573" duration="2339000" />
+      <workItem from="1533233591573" duration="2944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169390000" />
+    <option name="totallyTimeSpent" value="169995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,7 +373,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32904148" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49194992" visible="true" weight="0.26323318" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49194992" weight="0.26323318" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49853802" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5080501" side_tool="true" weight="0.32474965" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32904148" />
